@@ -1,0 +1,6 @@
+{
+  "name": "F7 Medical Equipment",
+  "description": "India's premier medical equipment sales and rental provider across 7 official branches: Hyderabad, Delhi, Vijayawada, Visakhapatnam, Chennai, Bangalore, and Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
